@@ -24,3 +24,11 @@ I'll try to update it as much as I can.
 <br/>
 
 ### Anyway, I hope you will find this repo usefull. Please share it with your friends, your network or anybody you think will needed or not. If you find it usefull please hit the star button as well & good luck on coding!
+
+### Structure:
+
+#### [Data Types](/data_types.md)
+
+#### [Truthy & Falsy](/truthy_falsy.md)
+
+#### [Type Conversion & Coercion](/type_conversion_and_coercion.md)
