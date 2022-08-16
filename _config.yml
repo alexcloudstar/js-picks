@@ -1,0 +1,10 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+  - data_types.md
+  - truthy_falsy.md
+  - type_conversion_and_coercion.md
