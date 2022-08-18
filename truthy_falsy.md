@@ -3,11 +3,11 @@
 
 
 
->  <h3>The falsy values are not really false. <br/> But will become false
+>  <h3>The falsy values are not really false. But will become false</h3>
 
 
 
-> once we convert to a boolean</h3>
+> <h3>once we convert to a boolean</h3>
 
 
 
