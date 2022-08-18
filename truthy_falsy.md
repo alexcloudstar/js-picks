@@ -6,7 +6,7 @@
 <h4>In JS we have 5 values which are falsy</h4>
 
 | 0 (zero) | " " (empty string) | Undefined | Null | NaN |
-| -------- | ------------------ | --------- | ---- | --- |
+-------- | ------------------ | --------- | ---- | --- |
 
     Boolean(0) // * -> false
 
