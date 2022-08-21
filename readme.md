@@ -2,28 +2,32 @@
 
 ## Hi there! 👋🏻
 
-### Short introduction:
 
-My name is Alexandru Romila as a nickname i'm using Alex Cloudstar so let's keep it that way.
-I'm learning/doing programming from 2015. First 4 years until 2019 I hesitate to learn JavaScript (only God knows why).
-But from 2019 until now i'm using it & learn it everyday.
-This JavaScript Picks as I named this repo is nothing more than some picks which i get from different articles/tutorials etc.
+### A succinct introduction
 
-> Please note, these are some really quick things about JavaScript and
-> if you want to learn more about it there are plenty tutorials, books,
-> articles etc.
+Let's keep it that way. My name is Alexandru Romila, and my nickname is Alex Cloudstar. I started studying and practicing programming around 2015. I hesitate to learn JavaScript for the first four years until 2019 (only God knows why). However, I've been using it and learning it daily since 2019. This JavaScript Picks repository, as I have titled it, consists only of some picks that I have collected from various articles, tutorials, and other sources.
 
-If you have some quick tip or anything about JavaScript you are free to create a new branch from _main_ and create a PR.
-I'll try to update it as much as I can.
+  
 
-> Disclaimer: I'm pretty sure is not just me who forgets things. We are
-> not robots and anyway from my perspective we don't have to memorize
-> everything. For example i'm working with quite a few frameworks and
-> all have are own caveats and turn arounds situations.
+> Note that these are only a few basic facts about JavaScript; if you're
+> interested in learning more, there are many tutorials, books,
+> articles, etc. available.
+> 
+Create a new branch from main and a PR if you have any fast advice or knowledge of JavaScript.
+I'll make every effort to keep it updated.
+> 
+> 
+> 
+> I'm very certain that I'm not the only one who sometimes forgets
+> stuff. Since we are not machines, we do not need to memorize
+> everything, in my opinion. For instance, I work with a number of
+> frameworks, each of which has its own limitations and special
+> circumstances.
 
+  
 <br/>
 
-### Anyway, I hope you will find this repo usefull. Please share it with your friends, your network or anybody you think will needed or not. If you find it usefull please hit the star button as well & good luck on coding!
+###  Anyhow, I hope this repository will be helpful to you. Please spread the word to your network of contacts and anybody else you think would find it useful. Please click the star if you found it helpful and good luck with your coding if you did!
 
 ### Structure:
 
