@@ -34,3 +34,5 @@ I'll try to update it as much as I can.
 #### [Type Conversion & Coercion](/type_conversion_and_coercion.md)
 
 #### [This keyword](/this_keyword.md)
+
+#### [This keyword - Regular vs Arrow Functions](/this_keyword_regular_vs_arrow_functions.md)
