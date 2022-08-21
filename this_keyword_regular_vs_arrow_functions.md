@@ -1,9 +1,10 @@
 
 # This keyword (regular function vs arrow function)
 
-const cloudstar = {
+
 
 ```
+const cloudstar = {
  name: ‘Cloudstar’,
 
  year : 1998,
